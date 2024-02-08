@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Placeholder text.
+I am a first year graduate student in the Department of Electrical and Computer Engineeering at Rice University. My advisor is Dr. Momona Yamagami, and my research focus is wearable sensors for remote patient monitoring and at-home rehabilitation.
