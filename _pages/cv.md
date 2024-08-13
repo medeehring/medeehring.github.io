@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. Electrical and Computer Engineering, Rice University, 2025 (expected)
+* B.S. Biomedical Egineering, University of Houston, 2023
+
 
 Work experience
 ======
@@ -29,12 +29,15 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * C/C++
+  * C#
+  * MATLAB
+  * R
+* Machine Learning
+  * Interpretable Machine Learning
+  * Unsupervised Machine Learning
 
 Publications
 ======
@@ -56,4 +59,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Digital Chair | ECE Graduate Women and Gender Minorities | Rice University, 2024 - Present
+* Membership Chair | Biomedical Engineering Society| University of Houston, 2022 - 2023
