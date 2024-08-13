@@ -15,17 +15,17 @@ Education
 * B.S. Biomedical Egineering, University of Houston, 2023
 
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023 - Present: Gradaute Research Assistant
+  * Rice University
+  * Research Focus: wearables for at-home rehabilitation and remote patient monitoring.
+  * Supervisor: Dr. Momona Yamagami
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021 - 2023: Undergraduate Research Assistant
+  * University of Houston
+  * Research Focus: developing platform to monitor tremors in Parkinson's Disease patients
+  * Supervisor: Dr. Nuri Ince
   
 Skills
 ======
@@ -61,3 +61,7 @@ Service and leadership
 ======
 * Digital Chair | ECE Graduate Women and Gender Minorities | Rice University, 2024 - Present
 * Membership Chair | Biomedical Engineering Society| University of Houston, 2022 - 2023
+
+Full CV PDF
+======
+[Download CV Here](http://medeehring.github.io/files/M_Deehring_CV.pdf)
